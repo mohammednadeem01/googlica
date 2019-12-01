@@ -33,6 +33,7 @@ body{
     margin: 50px;
 
 
+
 }
 
 .input input
@@ -57,4 +58,11 @@ body{
 .footer-right
 {
     text-align: right;
+}
+
+.footer
+{
+    text-align: justify;
+    
+    padding: 50px;
 }
