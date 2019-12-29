@@ -31,9 +31,7 @@ body{
 {
     text-align: center;
     margin: 50px;
-
-
-
+    padding-top: 10%;
 }
 
 .input input
@@ -63,6 +61,5 @@ body{
 .footer
 {
     text-align: justify;
-    
     padding: 50px;
 }
